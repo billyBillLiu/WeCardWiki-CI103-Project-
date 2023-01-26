@@ -15,5 +15,5 @@ We work best together when...
 - We are all contributing as much as we can.
 - We are empathetic of mistakes, setbacks, and individual circumstances.
 - We meet up once in a while to "debrief". \
-We will communicate with Discord. 
+We will communicate with Discord and we expect responses from each other within 5 hours.
 
