@@ -5,9 +5,9 @@ Today, online communication takes many forms. Phone numbers, emails, social medi
 
 Mission Statement:
 Develop a simple, quick, easy-to-use app that allows the user to connect with others.
--Zhixian Li
+-Zhixian Li 
 -Jiahao Wang 
 -Bill Liu
 
 Defining Success:
-
+![Web_capture_26-1-2023_132946_www.mountaingoatsoftware.com__2_](uploads/1cad6d5a805ca71e82264027f00c8aa8/Web_capture_26-1-2023_132946_www.mountaingoatsoftware.com__2_.jpeg)
