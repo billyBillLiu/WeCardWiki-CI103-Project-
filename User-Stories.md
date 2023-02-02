@@ -12,6 +12,7 @@
 -I can share my card with others without wasting the other person's time. \
 -I can link websites and social media on my card. \
 -I can design and customize my card to be aesthetically pleasing. \
+\
 "As someone who changes numbers very frequently, I want a way to share my new numbers with others without having to message each and every one of my contacts." \
 -I can change my information on the app and have it updated on my friend's phones as well. \
 
