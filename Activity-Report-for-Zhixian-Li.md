@@ -10,4 +10,7 @@ Creating a flow chart - create it - ToDo \
 I created an issue in todo tab regarding to creating a flow chart for the app. This will get the team a general idea of what is to be expected on the app. \
 February 2nd, 2023 at 2:30PM moved to ToDo 
 
-Zhixian Li
+Signed by \
+_Bill Liu \
+Zhixian Li \
+Jiahao Wang_
