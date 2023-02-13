@@ -1,4 +1,4 @@
-**January 30th - February 5th, 2022 **
+** January 30th - February 5th, 2022 **
 
 Issues: There are no issues to report.
 
@@ -14,7 +14,7 @@ Zhixian Li \
 Jiahao Wang_
 
 
-**February 6th - February 12th, 2022 **
+** February 6th - February 12th, 2022 **
 
 Issues: Swift is difficult to install on windows and will not have the same 
 
