@@ -1,9 +1,9 @@
-February 6th - February 12th
-Issues: no issues to report
-Activity Report
-I review The sketch and Flowchart and move them back to progress chart. 
-30 mins 
-February 13, 2023 10:03Pm
+February 6th - February 12th \
+Issues: no issues to report \
+Activity Report \
+I review The sketch and Flowchart and move them back to progress chart. \
+30 mins \
+February 13, 2023 10:03Pm \
 signed by \
 _Bill Liu \
 Zhixian Li \
