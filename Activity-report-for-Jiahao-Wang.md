@@ -1,4 +1,15 @@
-January 1st - February 5th, 2022 
+February 6th - February 12th
+Issues: no issues to report
+Activity Report
+I review The sketch and Flowchart and move them back to progress chart. 
+30 mins 
+February 13, 2023 10:03Pm
+signed by \
+_Bill Liu \
+Zhixian Li \
+Jiahao Wang_
+
+January 30th - February 5th, 2022 
 
 Issues: There are no issues to report.
 
