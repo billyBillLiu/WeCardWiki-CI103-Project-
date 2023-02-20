@@ -9,8 +9,8 @@ Networking - Create Home Screen - To Do \
 I created and opened the task.
 February 19, 2023 & at; 10:36pm added to To Do
 
-Networking - Create Swipe Left and Right Functions - To DO
-I created and opened the task.
+Networking - Create Swipe Left and Right Functions - To DO \
+I created and opened the task. \
 February 19, 2023 & at; 10:38 pm added to To Do
 
 Signed by \
