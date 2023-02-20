@@ -1,3 +1,19 @@
+** February 20th - February 26th, 2022 **
+
+Issues:
+
+Activity Report 
+
+Networking – Create Homescreen – To Do \
+30 min \
+I created a home screen with a background with the general shape of the card in the middle.\
+February 20, 2023 & at; 3:34 am moved to Review
+
+Signed by \
+
+
+---------------------------------------------------------------------------------------------------------
+
 ** February 13th - February 19th, 2022**
 
 Issues: I spent most of this week figuring out the technicalities of downloading and installing flutter. I successfully set up flutter on my laptop. I pushed the base flutter project template to GitLab. We might switch to flutter as our coding tool instead of swift. Another option is to develop in both swift and flutter simultaneously, but this might not be easy to keep up with. If we want to switch to flutter, I might have to guide you guys through the steps of setting it up in VS Code and installing the emulator since it was quite challenging.
