@@ -7,7 +7,7 @@ Activity Report
 Networking – Create Homescreen – To Do \
 30 min \
 I created a home screen with a background with the general shape of the card in the middle.\
-February 20, 2023 & at; 3:34 am moved to Review
+February __, 2023 & at; ____ am moved to Review
 
 Signed by \
 
