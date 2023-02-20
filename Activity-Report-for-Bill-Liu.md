@@ -22,7 +22,7 @@ Jiahao Wang_
 
 ** February 6th - February 12th, 2022 **
 
-Issues: Swift is difficult to install on windows and will not have the same 
+Issues: Swift is difficult to install on windows and will not have the same features.
 
 Activity Report 
 
