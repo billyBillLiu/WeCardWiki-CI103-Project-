@@ -1,4 +1,4 @@
-** February 20th - February 26th, 2022 **
+**February 20th - February 26th, 2022**
 
 Issues:
 
@@ -14,7 +14,7 @@ Signed by \
 
 ---------------------------------------------------------------------------------------------------------
 
-** February 13th - February 19th, 2022**
+**February 13th - February 19th, 2022**
 
 Issues: I spent most of this week figuring out the technicalities of downloading and installing flutter. I successfully set up flutter on my laptop. I pushed the base flutter project template to GitLab. We might switch to flutter as our coding tool instead of swift. Another option is to develop in both swift and flutter simultaneously, but this might not be easy to keep up with. If we want to switch to flutter, I might have to guide you guys through the steps of setting it up in VS Code and installing the emulator since it was quite challenging.
 
@@ -36,7 +36,7 @@ Jiahao Wang_
 
 ---------------------------------------------------------------------------------------------------------
 
-** February 6th - February 12th, 2022 **
+**February 6th - February 12th, 2022**
 
 Issues: Swift is difficult to install on windows and will not have the same features.
 
@@ -54,7 +54,7 @@ Jiahao Wang_
 
 ---------------------------------------------------------------------------------------------------------
 
-** January 30th - February 5th, 2022 **
+**January 30th - February 5th, 2022**
 
 Issues: There are no issues to report.
 
