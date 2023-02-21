@@ -1,3 +1,22 @@
+February 13th - February 20th, 2022
+
+Issues: Due to the difficulty of getting SwiftUI running for all team members including me. As a team, we should be discussing an alternative base for our code to start. Currently we are looking at Flutter and hope that it will be a much easier location to work together. Since we are switching language, all of our previous work needs to be reviewed and changed to the language we are going to use.
+
+Activity Report
+
+Download Flutter - shared code base - N/A \
+15 minutes \
+I have started downloading Flutter as the current language is difficult as a starter in programming to begin with. I will be ready for the upcoming week to actually begin with something. \
+February 19th, 2023 at 10:30PM moved to N/A 
+
+Signed by \
+_Zhixian Li \
+Jiahao Wang \
+Bill Liu_
+
+
+
+
 February 6th - February 12th, 2022
 
 Issues: Swift installation on windows is kind of a hassle. Have to move to Mac in order to begin with Swift.
