@@ -1,3 +1,14 @@
+February 13 - February 19th \
+Issues: Having a hard time using swift \
+Activity Report \
+Instead of using swift we decided to use flutter. I had it download and ready to start learning how this learn works. \
+1 hour \
+February 20, 2023 10:02Pm \
+signed by \
+_Bill Liu \
+Zhixian Li \
+Jiahao Wang_
+
 February 6th - February 12th \
 Issues: no issues to report \
 Activity Report \
