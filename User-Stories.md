@@ -13,8 +13,8 @@ Keeping Track of Contacts \
 
 Adding and Sharing Information \
 "As a contractor who wants to advertise my business, I want a way to share my services and contact information digitally so that I can avoid using physical business cards that can be easily lost or damaged." (S) (SHOULD) \
--I can add information to my cards.
--I can change the text on my cards.
+-I can add information to my cards. \
+-I can change the text on my cards. \
 -I can link numbers and links on my card.
 
 Syncing information with others.\
