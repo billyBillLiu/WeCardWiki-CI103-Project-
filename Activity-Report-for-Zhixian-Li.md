@@ -1,4 +1,21 @@
-February 13th - February 20th, 2022
+February 21st - February 27th, 2023
+
+Issues: Still need to download android emulator to visualize what we are currently working with. 
+
+Activity Report 
+
+Planning tasks - gave sources for tasks - N/A \
+1 hour \
+I overlooked the various tasks that were broken down and found a video and/or tutorial that will help our team with a jumpstart to what we should code for each of our tasks. \
+February 23rd, 2023 at 10:45 AM moved to N/A 
+
+Signed By
+
+
+
+---------------------------------------------------------------------
+
+February 13th - February 20th, 2023
 
 Issues: Due to the difficulty of getting SwiftUI running for all team members including me. As a team, we should be discussing an alternative base for our code to start. Currently we are looking at Flutter and hope that it will be a much easier location to work together. Since we are switching language, all of our previous work needs to be reviewed and changed to the language we are going to use.
 
@@ -14,8 +31,7 @@ _Zhixian Li \
 Jiahao Wang \
 Bill Liu_
 
-
-
+---------------------------------------------------------------------
 
 February 6th - February 12th, 2022
 
@@ -38,7 +54,7 @@ _Bill Liu \
 Zhixian Li \
 Jiahao Wang_
 
-
+--------------------------------------------------------------------
 
 February 2nd - February 5th, 2023
 
