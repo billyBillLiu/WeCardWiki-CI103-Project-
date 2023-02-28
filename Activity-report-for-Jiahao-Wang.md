@@ -1,3 +1,11 @@
+February 20 - February 27\
+Activity report
+Created The Team Metrics wiki page. Create a few task and review the tasks that were made by my team members. Watch videos on how to create functions on our app. \
+30 mins \
+February 27, 2023 9:56pm \
+signed by \
+_Jiahao Wang \
+
 February 13 - February 19th \
 Issues: Having a hard time using swift \
 Activity Report \
