@@ -1,6 +1,6 @@
 **February 20th - February 26th, 2022**
 
-Issues:
+Issues: none
 
 Activity Report 
 
