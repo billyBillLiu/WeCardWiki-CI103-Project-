@@ -9,8 +9,8 @@ Planning tasks - gave sources for tasks - N/A \
 I overlooked the various tasks that were broken down and found a video and/or tutorial that will help our team with a jumpstart to what we should code for each of our tasks. \
 February 23rd, 2023 at 10:45 AM moved to N/A 
 
-Signed By
-_Jiahao Wang
+Signed By\
+_Jiahao Wang\
 
 
 ---------------------------------------------------------------------
