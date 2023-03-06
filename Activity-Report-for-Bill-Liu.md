@@ -1,3 +1,18 @@
+**February 27th - March 5th, 2022**
+
+Issues: We need to complete our minimum viable product finished by the end of the week.
+
+Activity Report 
+
+Networking – Create Homescreen – To Do \
+30 min \
+I created a home screen with a background with the general shape of the card in the middle.\
+February 20, 2023 & at; 3:48 am moved to Review
+
+Signed by \
+
+---------------------------------------------------------------------------------------------------------
+
 **February 20th - February 26th, 2022**
 
 Issues: none
@@ -10,6 +25,7 @@ I created a home screen with a background with the general shape of the card in 
 February 20, 2023 & at; 3:48 am moved to Review
 
 Signed by \
+Bill Liu \
 Jiahao Wang\
 _Zhixian Li_
 
@@ -61,11 +77,9 @@ Issues: There are no issues to report.
 
 Activity Report 
 
-Networking – Sketch a design for the UI – ToDO \
-30 min \
-I created the task, added a description, and the acceptance criteria.
+Networking – Create Placeholder Cards – ToDo \
+50 min \
+I created one placeholder card in the middle of the main page. This will be the general card template for all cards made by the program. The font style and information on the card are currently hardcoded. This will be changed later.
 
 Signed by \
-_Bill Liu \
-Zhixian Li \
-Jiahao Wang_
+_Bill Liu \_
