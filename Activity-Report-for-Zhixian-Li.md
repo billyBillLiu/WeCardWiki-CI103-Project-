@@ -1,3 +1,18 @@
+February 28th - March 6th, 2023
+
+Issues: Coding with VSCode and Flutter is still difficult to get into, will need to learn more about how to code functions into the app.
+
+Activity Report
+
+Create add icon at the bottom of the screen - moved to Review \
+30 minutes \
+I created a button on the bottom of the screen that resembles an add button, this is mainly for adding new cards. While there is no functionality, this needs to be reviewed in terms of its design. \
+March 
+March 4th, 2023 at 6:15 PM moved to In-Progress, 6:45 PM moved to Review
+
+Signed by \
+_Zhixian Li_
+
 February 21st - February 27th, 2023
 
 Issues: Still need to download android emulator to visualize what we are currently working with. 
