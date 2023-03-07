@@ -1,5 +1,5 @@
 February 28 - March 6\
-Activity report
+Activity report\
 I watch the video on how to build a wallet app on Ios with flutter. I will try to use that as my template and build my app based on that. I also went through a video on how to slide through your app. \
 1 hour \
 March 6, 2023 10:30pm \
