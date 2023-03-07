@@ -4,7 +4,8 @@ I watch the video on how to build a wallet app on Ios with flutter. I will try t
 1 hour \
 March 6, 2023 10:30pm \
 signed by \
-_Jiahao Wang \
+_Jiahao Wang 
+Zhixian Li \
 
 February 20 - February 27\
 Activity report
