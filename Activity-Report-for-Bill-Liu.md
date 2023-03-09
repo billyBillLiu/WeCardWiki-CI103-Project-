@@ -4,6 +4,29 @@ Issues: We need to complete our minimum viable product finished by the end of th
 
 Activity Report 
 
+Interactivity (Stub 3) – Create Placeholder Cards – To Do \
+50 min\
+I created the general template for the placeholder cards. I copied the code and put them in a separate folder named "Elements". The function for this card can be called using TheCard(). \
+February 6, 2023, at: 8:58 pm moved to In Progress, 9:48 pm moved to Review
+
+Interactivity (Stub 3) - Create Scroll Function - To Do \
+50 min\
+I wrapped the placeholder cards in a function called PageView(). I then changed some of the ratio values to have the card better fit the screen. I added several placeholder cards to the PageView() list for now. A function should be added later that allows the user to add cards on their own. \
+February 9, 2023, at: 12:58 am moved to In Progress, 1:43 am moved to Review
+
+
+Signed by \
+Bill Liu
+
+---------------------------------------------------------------------------------------------------------
+
+
+**February 27th - March 5th, 2022**
+
+Issues: We need to complete our minimum viable product finished by the end of the week.
+
+Activity Report 
+
 Networking – Create Homescreen – To Do \
 30 min \
 I created a home screen with a background with the general shape of the card in the middle.\
@@ -11,7 +34,9 @@ February 20, 2023 & at; 3:48 am moved to Review
 
 Signed by \
 Jiahao Wang \
-_Zhixian Li_
+_Zhixian Li \
+Bill Liu_
+
 ---------------------------------------------------------------------------------------------------------
 
 **February 20th - February 26th, 2022**
