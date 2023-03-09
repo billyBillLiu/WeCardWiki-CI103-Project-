@@ -19,17 +19,17 @@ We work best together when...
 
 **Calendar:** \
 _*We can meet up outside of class at the end of each sprint to finish any outlying tasks.*_ \
-By the start of sprint 1...
+By the end of Sprint 1, we want to have...
 - a finalized product name
 - a completed concept flow chart of how the app will run.
 - sketch of the app's UI.
 
-By the end of sprint 1, we want to have...
+End of Sprint 1
 - completed the UI design of the app.
 End of Sprint 1:
 - We planned out layout of the app and we are currently downloading the coding software.
 
-By the end of sprint 2, we want to have...
+By the end of Sprint 2, we want to have...
 - Created the home page with functional buttons.
 - Allow the user to change the text on the cards.
 
