@@ -25,9 +25,17 @@ By the start of sprint 1...
 - sketch of the app's UI.
 
 By the end of sprint 1, we want to have...
-- completed several user stories.
+- completed the UI design of the app.
+End of Sprint 1:
+- We planned out layout of the app and we are currently downloading the coding software.
 
 By the end of sprint 2, we want to have...
-- complete all/most of the user stories.
+- Created the home page with functional buttons.
+- Allow the user to change the text on the cards.
+
+End of Sprint 1:
+- Created a home page.
+- Added the buttons on the homepage as functionless icons.
+- Created a scrollable view of cards in the middle of the screen
 
 _signed by Bill Liu, Zhixian Li, Jiahao Wang_
