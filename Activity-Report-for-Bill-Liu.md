@@ -4,12 +4,12 @@ Issues: We need to complete our minimum viable product finished by the end of th
 
 Activity Report 
 
-Interactivity (Stub 3) – Create Placeholder Cards – To Do \
+Interactability – Create Placeholder Cards – To Do \
 50 min\
 I created the general template for the placeholder cards. I copied the code and put them in a separate folder named "Elements". The function for this card can be called using TheCard(). \
 February 6, 2023, at: 8:58 pm moved to In Progress, 9:48 pm moved to Review
 
-Interactivity (Stub 3) - Create Scroll Function - To Do \
+Intractability - Create Scroll Function - To Do \
 50 min\
 I wrapped the placeholder cards in a function called PageView(). I then changed some of the ratio values to have the card better fit the screen. I added several placeholder cards to the PageView() list for now. A function should be added later that allows the user to add cards on their own. \
 February 9, 2023, at: 12:58 am moved to In Progress, 1:43 am moved to Review
@@ -27,7 +27,7 @@ Issues: We need to complete our minimum viable product finished by the end of th
 
 Activity Report 
 
-Networking – Create Homescreen – To Do \
+Design – Create Homescreen – To Do \
 30 min \
 I created a home screen with a background with the general shape of the card in the middle.\
 February 20, 2023 & at; 3:48 am moved to Review
@@ -45,7 +45,7 @@ Issues: none
 
 Activity Report 
 
-Networking – Create Homescreen – To Do \
+Design – Create Homescreen – To Do \
 30 min \
 I created a home screen with a background with the general shape of the card in the middle.\
 February 20, 2023 & at; 3:48 am moved to Review
@@ -63,12 +63,12 @@ Issues: I spent most of this week figuring out the technicalities of downloading
 
 Activity Report
 
-Networking - Create Home Screen - To Do \
+Design - Create Home Screen - To Do \
 1 min \
 I created and opened the task.
 February 19, 2023 & at; 10:36pm added to To Do
 
-Networking - Create Swipe Left and Right Functions - To DO \
+Design - Create Swipe Left and Right Functions - To DO \
 I created and opened the task. \
 February 19, 2023 & at; 10:38 pm added to To Do
 
@@ -85,7 +85,7 @@ Issues: Swift is difficult to install on windows and will not have the same feat
 
 Activity Report 
 
-Networking – Sketch a design for the UI – To Do \
+Design – Sketch a design for the UI – To Do \
 30 min \
 I sketched a detailed concept of the app. It includes all the UI displays and functions ideas. It can be used to visualize and create the concept flow chart for the app. I moved the task to the review tab. \
 February 9, 2023 & at; 1:40 pm moved to Review
@@ -103,7 +103,7 @@ Issues: There are no issues to report.
 
 Activity Report 
 
-Networking – Create Placeholder Cards – ToDo \
+Design – Create Placeholder Cards – ToDo \
 50 min \
 I created one placeholder card in the middle of the main page. This will be the general card template for all cards made by the program. The font style and information on the card are currently hardcoded. This will be changed later.
 
