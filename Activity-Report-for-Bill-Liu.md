@@ -1,3 +1,26 @@
+**March 6th - March 12th, 2022**
+
+Issues: None
+
+Activity Report 
+
+Interactability – Create Placeholder Text – To Do \
+20 min\
+I created a row that contains a column and a container. The row contains a column of text. Three text options: Name, Email, Number.
+March 6th, 2023, at: 4:38 pm moved to In Progress, 4:58 pm moved to Review
+
+Interactability – Create Placeholder Image Box – To Do \
+10 min\
+I created a row that contains a column and a container. The container on the right is formatted to look like an image box.
+March 6th, 2023, at: 4:58 pm moved to In Progress, 5:08 pm moved to Review
+
+Signed by \
+Bill Liu
+Zhixian
+Jiahao
+
+---------------------------------------------------------------------------------------------------------
+
 **February 27th - March 5th, 2022**
 
 Issues: We need to complete our minimum viable product finished by the end of the week.
@@ -17,6 +40,8 @@ February 9, 2023, at: 12:58 am moved to In Progress, 1:43 am moved to Review
 
 Signed by \
 Bill Liu
+Zhixian
+Jiahao
 
 ---------------------------------------------------------------------------------------------------------
 
