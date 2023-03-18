@@ -1,5 +1,4 @@
 **Definition of Done:**
-- Wiki describes the product's function and purpose in detail.
 - Understandable code.
 - Code consistently runs without errors.
 - Functions as planned.
