@@ -55,4 +55,10 @@ End of Sprint 3 (ACTUAL):
 
 ---------------------------------------------------------------------------------------------------------
 
+**Planning CI103**
+
+Our discussion regarding the current state of the project resulted that we will be modifying on our existing code in order to incrementally improve our product. We believe that restarting the whole project would cause a severe loss of motivation and unmanageable amounts of stress and combined with a very limited scope of 10-week timeframe, we would not be able to present a product that we can be satisfied with. Our team will be modifying the existing code as a start to this quarter and will see where it lands us after the first sprint.
+
+---------------------------------------------------------------------------------------------------------
+
 _signed by Bill Liu, Zhixian Li, Jiahao Wang_
