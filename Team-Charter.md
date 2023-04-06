@@ -28,7 +28,7 @@ By the end of Sprint 1, we want to have...
 - a completed concept flow chart of how the app will run.
 - sketch of the app's UI.
 
-By the end of Sprint 1:
+By the end of Sprint 1 (ACTUAL):
 - completed the UI design of the app.
 End of Sprint 1:
 - We planned out layout of the app and we are currently downloading the coding software.
@@ -39,10 +39,19 @@ By the end of Sprint 2, we want to have...
 - Created the home page with functional buttons.
 - Allow the user to change the text on the cards.
 
-End of Sprint 2:
+End of Sprint 2 (ACTUAL):
 - Created a home page.
 - Added the buttons on the homepage as functionless icons.
 - Created a scrollable view of cards in the middle of the screen
+
+---------------------------------------------------------------------------------------------------------
+
+By the end of Sprint 3, we want to have...
+- We want to be able to save information onto cards using a class.
+- We want to have everything we had previously but in the form of attributes and methods
+- Can create multiple cards with the same format.
+
+End of Sprint 3 (ACTUAL):
 
 ---------------------------------------------------------------------------------------------------------
 
