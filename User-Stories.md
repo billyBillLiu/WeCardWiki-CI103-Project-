@@ -1,6 +1,6 @@
 **Sprint Backlog**
 
-Stub 2: Organization (\
+Stub 2: Organization (Search Bar and Folders)\
 "As someone who struggles to keep track of numbers, emails, and addresses, I want a central app that compiles and organizes my friend's and family's information." _(M) (SHOULD)_ 
 - I can make folders for the business cards I collect. 
 - I can navigate the folder system and locate a specific person with ease. 
