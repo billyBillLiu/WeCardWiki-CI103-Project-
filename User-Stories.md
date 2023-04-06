@@ -12,14 +12,16 @@ Stub 4: Information\
 
 **This Sprint**
 
+
+
+**Done**
+
 Stub 3: Interactability \
 "As a contractor who wants to advertise my business, I want a way to share my services and contact information digitally so that I can avoid using physical business cards that can be easily lost or damaged." _(S) (SHOULD)_ 
 - I can add cards to my collection.
 - I can add information to my cards. 
 - I can change the text on my cards. 
 - I can look through my existing cards.
-
-**Done**
 
 Stub 1: Design \
 "As someone who meets a lot of new people every day, I want a quick and easy way to exchange contact information in order to save time and avoid wrong numbers." _(M) (MUST)_ 
