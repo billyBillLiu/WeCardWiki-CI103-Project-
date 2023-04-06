@@ -15,6 +15,8 @@ We work best together when...
 - We are empathetic of mistakes, setbacks, and individual circumstances.
 - We meet up once in a while to "debrief".
 - We communicate with ~~Discord~~ Instagram and respond within 5 hours.
+- We assign each other or ourselves up to only 2 tasks per week.
+- We complete our designated tasks within a week of the assignment. 
 
 **Calendar:** \
 _*We can meet up outside of class at the end of each sprint to finish any outlying tasks.*_ \
