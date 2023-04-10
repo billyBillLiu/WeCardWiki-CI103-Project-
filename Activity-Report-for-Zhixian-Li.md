@@ -1,3 +1,23 @@
+April 3rd - April 9th, 2023
+
+Issues: There are nothing to report. 
+
+Activity Report
+
+Create edit name method for card class - moved to ToDo \
+5 minutes \
+Created the task on Kanban board along with providing a link to help the coding process. \
+April 6th, 2023 at 1:00 PM moved to ToDo
+
+Create edit color method for card class - moved to ToDo \
+5 minutes \
+Created the task on Kanban board along with providing a link to how to implement the code in flutter. \
+April 6th, 2023 at 1:15 PM moved to ToDo
+
+Signed By \
+_Zhixian Li_
+
+
 February 28th - March 6th, 2023
 
 Issues: Coding with VSCode and Flutter is still difficult to get into, will need to learn more about how to code functions into the app.
