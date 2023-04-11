@@ -1,11 +1,21 @@
+April 3 - April 9\
+Activity report\
+This week I added more task and put a due date on them and assign them to myself. I also updated that team metrics. Also contributed to the discussion of our product and how we plan on editing our app and its functions. \
+April 10, 2023 9:50pm \
+signed by \
+_Jiahao Wang\
+Zhixian Li\
+Bill Liu_
+
 February 28 - March 6\
 Activity report\
 I watch the video on how to build a wallet app on Ios with flutter. I will try to use that as my template and build my app based on that. I also went through a video on how to slide through your app. \
 1 hour \
 March 6, 2023 10:30pm \
 signed by \
-_Jiahao Wang 
+_Jiahao Wang\ 
 Zhixian Li \
+Bill Liu_
 
 February 20 - February 27\
 Activity report
