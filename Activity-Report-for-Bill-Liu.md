@@ -6,8 +6,9 @@ Activity Report:
 
 Nothing done this wek
 
-Signed by 
-Zhixian Li
+Signed by \
+Zhixian Li \
+Jiahao Wang
 
 ---------------------------------------------------------------------------------------------------------
 
