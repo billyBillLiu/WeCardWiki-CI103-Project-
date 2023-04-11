@@ -1,6 +1,7 @@
 April 3 - April 9\
 Activity report\
 This week I added more task and put a due date on them and assign them to myself. I also updated that team metrics. Also contributed to the discussion of our product and how we plan on editing our app and its functions. \
+1 hour \
 April 10, 2023 9:50pm \
 signed by \
 _Jiahao Wang\
