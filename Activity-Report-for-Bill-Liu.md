@@ -10,9 +10,20 @@ Created a simple class with no methods. Wrote a constructor with the parameters 
 April 12th, 2023, at: 8:21 pm moved to In Progress, 9:04 pm moved to Review
 
 Creating and saving Cards - Initialize and create the attributes for the card class - To Do \
-10 min\
+15 min\
 Created the string attributes name, number, email, and other. The code for this is inside the constructor for the class ("this.name = name;")
-April 12th, 2023, at: 8:54 pm moved to In Progress, 9:04 pm moved to Review
+April 12th, 2023, at: 8:49 pm moved to In Progress, 9:04 pm moved to Review
+
+Creating and saving Cards - Create edit email method - To Do\
+5min \
+Created setter for editing email string
+April 13th, 2023, at: 1:23 pm moved to In Progress, 1:28 pm moved to Review
+
+Creating and saving Cards - Create edit other info method - To Do\
+5min \
+Created setter for editing description string
+April 13th, 2023, at: 1:23 pm moved to In Progress, 1:28 pm moved to Review
+
 
 Signed by \
 Bill Liu
