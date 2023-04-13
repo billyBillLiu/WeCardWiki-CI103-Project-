@@ -1,10 +1,13 @@
-**April 3th - April 9, 2022** (Week 1 Spring Quarter)
+**April 10th - April 16, 2022**
 
 Issues: None
 
 Activity Report: 
 
-Nothing done this wek
+Creating and saving a – Create Placeholder Text – To Do \
+__ min\
+
+March 6th, 2023, at: 4:38 pm moved to In Progress, 4:58 pm moved to Review
 
 Signed by \
 Zhixian Li \
@@ -12,7 +15,22 @@ Jiahao Wang
 
 ---------------------------------------------------------------------------------------------------------
 
-**February 27th - March 5th, 2022**
+**April 3th - April 9, 2022** (Week 1 Spring Quarter)
+
+Issues: None
+
+Activity Report: 
+
+Nothing done this week
+
+Signed by \
+Zhixian Li \
+Jiahao Wang \
+Bill Liu
+
+---------------------------------------------------------------------------------------------------------
+
+**February 12th - March 18th, 2022**
 
 **March 6th - March 12th, 2022**
 
@@ -37,7 +55,7 @@ Jiahao\
 
 ---------------------------------------------------------------------------------------------------------
 
-**February 27th - March 5th, 2022**
+**March 5th - March 11th, 2022**
 
 Issues: We need to complete our minimum viable product finished by the end of the week.
 
