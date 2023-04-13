@@ -12,6 +12,15 @@ Stub 4: Sharing Cards (Database)\
 - I can scan other another user's QR code and save their contact card on my app.
 - I can have my information and 
 
+Stub 5: Understanding The App (User Guide) *NEW*\
+"As a consumer who wants to use the app, I want an introduction and tutorial on how to use the app, I want a user manual that lays out all the functions of the app."
+- I can access a txt file that has all the interactions and functions of the app listed out.
+
+Stub 6: Understanding the Code (System Guide) *NEW*\
+"As an IT person who wants to understand how the code works behind the scenes in the app, I want a document that I can use to walk myself through the code and understand what each line of code does."
+- I can access a tt file that explains what each class creates and how each function is used.
+- I can learn what why certain keywords and functions are used in all parts of the code.
+
 **This Sprint**
 
 Stub 3: Creating and Saving Cards (Creating Classes and Objects)\
