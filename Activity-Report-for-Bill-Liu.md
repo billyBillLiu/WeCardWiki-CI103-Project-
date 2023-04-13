@@ -4,14 +4,18 @@ Issues: None
 
 Activity Report: 
 
-Creating and saving a – Create Placeholder Text – To Do \
-__ min\
+Creating and saving Cards - Creating Class for the Card - To Do \
+43 min\
+Created a simple class with no methods. Wrote a constructor with the parameters name, number, email, and other. I also gave all parameters the String property. Majority of the time was spent researching how classes work in Dart.
+April 12th, 2023, at: 8:21 pm moved to In Progress, 9:04 pm moved to Review
 
-March 6th, 2023, at: 4:38 pm moved to In Progress, 4:58 pm moved to Review
+Creating and saving Cards - Initialize and create the attributes for the card class - To Do \
+10 min\
+Created the string attributes name, number, email, and other. The code for this is inside the constructor for the class ("this.name = name;")
+April 12th, 2023, at: 8:54 pm moved to In Progress, 9:04 pm moved to Review
 
 Signed by \
-Zhixian Li \
-Jiahao Wang
+Bill Liu
 
 ---------------------------------------------------------------------------------------------------------
 
