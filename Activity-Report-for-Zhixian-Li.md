@@ -1,3 +1,17 @@
+April 10th - April 17th, 2023
+
+Issues: Currently none.
+
+Activity Report
+
+Create edit name method for card class - moved to Review \
+5 mintues \
+Implemented a simple edit name method for card class. \
+April 13th, 2023 at 1:10 PM moved to Review
+
+
+
+
 April 3rd - April 9th, 2023
 
 Issues: There are nothing to report. 
