@@ -5,7 +5,7 @@ Issues: Having trouble implementing ways to save user data on editPage. Tried va
 Activity Report
 
 Creating and Saving cards - Create edit name method for card class - moved to Review \
-5 mintues \
+5 minutes \
 Implemented a simple edit name method for card class, which allows to edit the name information as a setter for the object. \
 April 13th, 2023 at 1:10 PM moved to Review 
 
