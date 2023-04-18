@@ -8,7 +8,7 @@ Using objects to generate QR codes - QR code - ToDo\
 I realize that using objects to generate QR codes is how it should be done for our app. Each device is its own object which means that each device has a different object and we could use that to generate their own unique QR codes. This is the foundation or a rough idea of how QR codes will be generated. \
 April 17th, 2023 @ 9:00 pm moved to progress. \
 signed by \
-_Jiahao Wang \
+_Jiahao Wang 
 
 April 3 - April 9\
 Activity report\
