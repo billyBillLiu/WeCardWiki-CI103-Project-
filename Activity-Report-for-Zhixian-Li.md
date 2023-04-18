@@ -14,7 +14,7 @@ Saving user data onto a card object - moved to In Progress \
 Added a card object which draws and pushes its information onto the current editPage variables by using getters. Currently does not work as intended, and will need further inspection and analysis on the code. \ 
 April 17th, 2023 at 9:20 PM moved to In Progress
 
-Signed By \ 
+Signed By \
 Zhixian Li
 
 
