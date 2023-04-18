@@ -1,3 +1,15 @@
+April 10th 2023 - April 17th 2023\
+Create a QR code generator - QR code - ToDo\
+30 minutes\
+I went through two videos of how different people use different ways to generate QR codes using flutter. I realize that many of them used a text box where they ask for an input to create their QR codes. That will not be something that we want to do with our app. 
+April 17th, 2023 @ 8:23pm moved to progress. \
+Using objects to generate QR codes - QR code - ToDo\
+30 minutes\
+I realize that using objects to generate QR codes is how it should be done for our app. Each device is its own object which means that each device has a different object and we could use that to generate their own unique QR codes. This is the foundation or a rough idea of how QR codes will be generated. \
+April 17th, 2023 @ 9:00 pm moved to progress. \
+signed by \
+_Jiahao Wang \
+
 April 3 - April 9\
 Activity report\
 This week I added more task and put a due date on them and assign them to myself. I also updated that team metrics. Also contributed to the discussion of our product and how we plan on editing our app and its functions. \
