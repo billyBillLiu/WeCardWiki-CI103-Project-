@@ -15,8 +15,8 @@ Added a card object which draws and pushes its information onto the current edit
 April 17th, 2023 at 9:20 PM moved to In Progress
 
 Signed By \
-Zhixian Li
-
+_Zhixian Li \
+Jiahao Wang \
 
 April 3rd - April 9th, 2023
 
