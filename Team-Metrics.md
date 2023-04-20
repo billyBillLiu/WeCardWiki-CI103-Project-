@@ -6,3 +6,5 @@
 ![Screenshot_2023-03-09_at_2.29.13_PM](uploads/62e6a92c8bd0a84e909b64e68cff2f41/Screenshot_2023-03-09_at_2.29.13_PM.png)
 ![Screenshot_2023-03-07_at_12.40.03_AM](uploads/937bc2038e8343383914517bdc389660/Screenshot_2023-03-07_at_12.40.03_AM.png)
 ![Screenshot_2023-02-23_at_1.56.00_PM](uploads/3b5ce99918726b438d4ee777b8486479/Screenshot_2023-02-23_at_1.56.00_PM.png)
+
+Approved by: Vistrit Pandey (Scrum Master)
