@@ -59,8 +59,13 @@ End of Sprint 3 (ACTUAL):
 - Did not implement change color or change picture within the card
 
 ---------------------------------------------------------------------------------------------------------
-Sprint #3 Retrospective:
+**Sprint #3 Retrospective:**
+
 During this sprint and throughout the weeks, we have decided to actively push each other into completing our assigned tasks. We gave deadlines to tasks and pushed each other in chat to finish what we were assigned to. This turned out to work better than previous sprints as we felt and agreed that we have more things done per sprint compared to previous sprints. One thing that we need to fix is to coordinate what tasks we are going to do. We ended up working on the same file, but different tasks related to that file, which created problems for our merge requests. As for our next sprint, we should tell each other in chat on what files we are working on in order to not create conflicting merge requests. 
+
+Action items: 
+- We will all be actively communicating about our tasks and what we are working on.
+- We will all be finishing our assigned tasks at Wednesday before the meeting day at 11:59PM.
 
 ---------------------------------------------------------------------------------------------------------
 
