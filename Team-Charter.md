@@ -15,6 +15,7 @@ We work best together when...
 - We are empathetic of mistakes, setbacks, and individual circumstances.
 - We meet up once in a while to "debrief".
 - We communicate with ~~Discord~~ Instagram and respond within 5 hours.
+- We communicate our workload and tasks actively in order to avoid conflicting file updates.
 - We assign each other or ourselves up to only 2 tasks per week.
 - We complete our designated tasks within a week of the assignment. 
 
@@ -52,6 +53,14 @@ By the end of Sprint 3, we want to have...
 - Can create multiple cards with the same format.
 
 End of Sprint 3 (ACTUAL):
+- Implemented a way to save the information onto the editcard 
+- Implemented classes to store card information, along with its attributes and methods
+- Able to create multiple cards with the same format using classes
+- Did not implement change color or change picture within the card
+
+---------------------------------------------------------------------------------------------------------
+Sprint #3 Retrospective:
+During this sprint and throughout the weeks, we have decided to actively push each other into completing our assigned tasks. We gave deadlines to tasks and pushed each other in chat to finish what we were assigned to. This turned out to work better than previous sprints as we felt and agreed that we have more things done per sprint compared to previous sprints. One thing that we need to fix is to coordinate what tasks we are going to do. We ended up working on the same file, but different tasks related to that file, which created problems for our merge requests. As for our next sprint, we should tell each other in chat on what files we are working on in order to not create conflicting merge requests. 
 
 ---------------------------------------------------------------------------------------------------------
 
