@@ -15,7 +15,7 @@ Stub 6: Understanding the Code (System Guide) *NEW*\
 - I can access a tt file that explains what each class creates and how each function is used.
 - I can learn what why certain keywords and functions are used in all parts of the code.
 
-**This Sprint**
+**This Sprint (SPRINT4)**
 
 Stub 4: Sharing Cards (Database)\
 "As someone who changes numbers very frequently, I want a way to share my new numbers with others without having to message each and every one of my contacts." _(L) (COULD)_ 
