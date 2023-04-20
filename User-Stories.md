@@ -6,12 +6,6 @@ Stub 2: Organization (Search Bar and Folders)\
 - I can navigate the folder system and locate a specific person with ease. 
 - I can search through my cards with names, numbers, emails, and keywords.
 
-Stub 4: Sharing Cards (Database)\
-"As someone who changes numbers very frequently, I want a way to share my new numbers with others without having to message each and every one of my contacts." _(L) (COULD)_ 
-- I can change my information on the app and have it updated on my friend's phones as well. 
-- I can scan other another user's QR code and save their contact card on my app.
-- I can have my information and 
-
 Stub 5: Understanding The App (User Guide) *NEW*\
 "As a consumer who wants to use the app, I want an introduction and tutorial on how to use the app, I want a user manual that lays out all the functions of the app."
 - I can access a txt file that has all the interactions and functions of the app listed out.
@@ -23,12 +17,11 @@ Stub 6: Understanding the Code (System Guide) *NEW*\
 
 **This Sprint**
 
-Stub 3: Creating and Saving Cards (Creating Classes and Objects)\
-"As someone who wants to keep track of my information. I want to be able to create and edit cards that can be saved on my app." _(S) (SHOULD)_ 
-- I can add information to my cards. 
-- I can change the text on my cards. 
-- I can upload an image.
-- I can save information on the app.
+Stub 4: Sharing Cards (Database)\
+"As someone who changes numbers very frequently, I want a way to share my new numbers with others without having to message each and every one of my contacts." _(L) (COULD)_ 
+- I can change my information on the app and have it updated on my friend's phones as well. 
+- I can scan other another user's QR code and save their contact card on my app.
+- I can have my information and 
 
 **Done**
 
@@ -37,3 +30,11 @@ Stub 1: Design (UI and Layout)\
 - I can understand the UI and location of buttons/features easily.
 - I can easily understand the layout of the app.
 - I can navigate the app without any thought or confusion.
+
+Stub 3: Creating and Saving Cards (Creating Classes and Objects)\
+"As someone who wants to keep track of my information. I want to be able to create and edit cards that can be saved on my app." _(S) (SHOULD)_ 
+- I can add information to my cards. 
+- I can change the text on my cards. 
+- I can upload an image.
+- I can save information on the app.
+
