@@ -7,22 +7,22 @@ Activity Report:
 Creating and Saving Cards - Implementing Class into Edit Page - TO DO \
 40 min \
 I deleted the separate class I made last week. I used the already existing card widget as the class instead. I renamed it to BlankCard() and changed it to a stateless widget. I pasted the methods from the old class over. I then initialized an object in editPage using that class and used that object to build the display on the edit page. \
-_April 17, 2023, at: 8:43 PM moved to In Progress, 09:23 PM moved to Review. _
+_April 17, 2023, at: 8:43 PM moved to In Progress, 09:23 PM moved to Review._
 
 Creating and Saving Cards - Validation for edit name method - TO DO \
 20 min \
 I created form keys for name, number, and email. I then added a validation parameter in the "Name" text field that only takes letters, periods, apostrophes, commas, and dashes. \
-_April 19, 2023, at: 10:00 PM moved to In Progress, 10:20 PM moved to Review. _
+_April 19, 2023, at: 10:00 PM moved to In Progress, 10:20 PM moved to Review._
 
 Creating and Saving Cards - Validation for edit number method - TO DO \
 40 min \
 I added a validation parameter to the "number" text field that only takes numbers. I also capped the length of the text field 11 digits. If the length is less than 10, a red message will appear below the text field. \
-_April 19, 2023, at: 10:21 PM moved to In Progress, 11:01 PM moved to Review. _
+_April 19, 2023, at: 10:21 PM moved to In Progress, 11:01 PM moved to Review._
 
 Creating and Saving Cards - Validation for edit email method - TO DO \
 15 min \
 I added a validation parameter to the "email" text field. The format that is accepted by this validation is email@address.domain. \
-_April 19, 2023, at: 11:01 PM moved to In Progress, 11:16 PM moved to Review. _
+_April 19, 2023, at: 11:01 PM moved to In Progress, 11:16 PM moved to Review._
 
 Signed By: \
 
