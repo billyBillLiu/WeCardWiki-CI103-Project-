@@ -1,3 +1,7 @@
+**Team Goal Sprint 4:**\
+Push each other and make sure to finish weekly tasks on time. Check the Kanban board regularly and hold each other accountable. Communicate more often to avoid issues with clashing code. Notify each other when starting and finishing tasks.
+---------------------------------------------------------------------------------------------------------
+
 **Spring Week 3** (Sprint 3)
 ![Screenshot_2023-04-20_at_2.32.33_PM](uploads/812aaf5e5bb14c2e027f9a9e11cb8052/Screenshot_2023-04-20_at_2.32.33_PM.png)
 **Spring Week 2** (Sprint 3)
