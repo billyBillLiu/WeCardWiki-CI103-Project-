@@ -1,4 +1,4 @@
-**April 17 - April 23**
+**April 17 - April 23, 2023**
 
 Issues: NONE
 
@@ -6,29 +6,30 @@ Activity Report:
 
 Creating and Saving Cards - Implementing Class into Edit Page - TO DO \
 40 min \
-I deleted the separate class I made last week. I used the already existing card widget as the class instead. I renamed it to BlankCard() and changed it to a stateless widget. I pasted the methods from the old class over. I then initialized an object in editPage using that class and used that object to build the display on the edit page. \
+I deleted the separate class I made last week. I used the already existing card widget (Card()) as the class instead. This is located in BlackCard.dart. I renamed it to BlankCard() and changed it to a stateless widget. I pasted the methods from the old class over. I then initialized an object in editPage using that class and used that object to build the display on the edit page. \
 _April 17, 2023, at: 8:43 PM moved to In Progress, 09:23 PM moved to Review._
 
 Creating and Saving Cards - Validation for edit name method - TO DO \
 20 min \
-I created form keys for name, number, and email. I then added a validation parameter in the "Name" text field that only takes letters, periods, apostrophes, commas, and dashes. \
+I created form keys for name, number, and email in editCard.dart. I then added a validation parameter in the "Name" text field that only takes letters, periods, apostrophes, commas, and dashes. \
 _April 19, 2023, at: 10:00 PM moved to In Progress, 10:20 PM moved to Review._
 
 Creating and Saving Cards - Validation for edit number method - TO DO \
 40 min \
-I added a validation parameter to the "number" text field that only takes numbers. I also capped the length of the text field 11 digits. If the length is less than 10, a red message will appear below the text field. \
+In editCard.dart, I added a validation parameter to the "number" text field that only takes numbers. I also capped the length of the text field 11 digits. If the length is less than 10, a red message will appear below the text field. \
 _April 19, 2023, at: 10:21 PM moved to In Progress, 11:01 PM moved to Review._
 
 Creating and Saving Cards - Validation for edit email method - TO DO \
 15 min \
-I added a validation parameter to the "email" text field. The format that is accepted by this validation is email@address.domain. \
+In editCard.dart, I added a validation parameter to the "email" text field. The format that is accepted by this validation is email@address.domain. \
 _April 19, 2023, at: 11:01 PM moved to In Progress, 11:16 PM moved to Review._
 
 Signed By: \
+Bill Liu \
 
 ---------------------------------------------------------------------------------------------------------
 
-**April 10th - April 16, 2022**
+**April 10th - April 16, 2023**
 
 Issues: None
 
@@ -62,7 +63,7 @@ Jiahao Wang
 
 ---------------------------------------------------------------------------------------------------------
 
-**April 3th - April 9, 2022** (Week 1 Spring Quarter)
+**April 3th - April 9, 2023** (Week 1 Spring Quarter)
 
 Issues: None
 
@@ -77,7 +78,7 @@ Bill Liu
 
 ---------------------------------------------------------------------------------------------------------
 
-**March 12th - March 18th, 2022**
+**March 12th - March 18th, 2023**
 
 Issues: None
 
@@ -100,7 +101,7 @@ Jiahao\
 
 ---------------------------------------------------------------------------------------------------------
 
-**March 5th - March 11th, 2022**
+**March 5th - March 11th, 2023**
 
 Issues: We need to complete our minimum viable product finished by the end of the week.
 
@@ -125,7 +126,7 @@ Jiahao\
 ---------------------------------------------------------------------------------------------------------
 
 
-**February 27th - March 5th, 2022**
+**February 27th - March 5th, 2023**
 
 Issues: We need to complete our minimum viable product finished by the end of the week.
 
@@ -143,7 +144,7 @@ Bill Liu_
 
 ---------------------------------------------------------------------------------------------------------
 
-**February 20th - February 26th, 2022**
+**February 20th - February 26th, 2023**
 
 Issues: none
 
@@ -161,7 +162,7 @@ _Zhixian Li_
 
 ---------------------------------------------------------------------------------------------------------
 
-**February 13th - February 19th, 2022**
+**February 13th - February 19th, 2023**
 
 Issues: I spent most of this week figuring out the technicalities of downloading and installing flutter. I successfully set up flutter on my laptop. I pushed the base flutter project template to GitLab. We might switch to flutter as our coding tool instead of swift. Another option is to develop in both swift and flutter simultaneously, but this might not be easy to keep up with. If we want to switch to flutter, I might have to guide you guys through the steps of setting it up in VS Code and installing the emulator since it was quite challenging.
 
@@ -183,7 +184,7 @@ Jiahao Wang_
 
 ---------------------------------------------------------------------------------------------------------
 
-**February 6th - February 12th, 2022**
+**February 6th - February 12th, 2023**
 
 Issues: Swift is difficult to install on windows and will not have the same features.
 
@@ -201,7 +202,7 @@ Jiahao Wang_
 
 ---------------------------------------------------------------------------------------------------------
 
-**January 30th - February 5th, 2022**
+**January 30th - February 5th, 2023**
 
 Issues: There are no issues to report.
 
