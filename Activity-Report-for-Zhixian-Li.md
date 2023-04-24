@@ -1,3 +1,24 @@
+April 18th - April 23rd, 2023
+
+Issues: After analyzing the code, a potential reason for the data not being able to be saved could be caused by input validation, though there is no clear indication. After working on a branch that did not have the input validation I was able to save the data onto the editpage page. I have tried to push out a merge request without the input validation part of the code, but the current main branch does not accept automatically. Would require manual reviews to merge the code. 
+
+Activity Report
+
+Creating and Saving Cards - Saving user data onto a card object - Moved to Review \
+1 hour \
+After working on the file that does not have the input validation, I was able to save the card information such as name, phone number, email and description. Have tested from swiping to left then right of the editpage and confirmed it saves the data. 
+April 19th, 2023 at 11:30 PM moved to Review \
+April 20th, 2023 at 1:20 PM moved to Done 
+
+Creating and Saving Cards - Replacing the editPage card to be the same as the reformatted placeholder cards - moved to Review \
+15 minutes \
+Following the format that Jiahao has made changes to in the placeholder card, I reformatted the card in the editpage to have similar elements with those cards. Tested that all form of data typed on the text boxes will appear and format properly in accordance with the placeholder card formats. \
+April 19th, 2023 11:45 PM moved to Review \
+April 24th, 2023 7:30 PM moved to Done 
+
+Signed By \
+Zhixian Li
+
 April 10th - April 17th, 2023
 
 Issues: Having trouble implementing ways to save user data on editPage. Tried various approach such as utilizing objects and file reading and writing but can not work out a solution after spending more than 5 hours due to my own flutter being outdated and can not figure out a way to update to the latest version. Request assistance for implementation. 
