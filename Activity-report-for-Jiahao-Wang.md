@@ -1,3 +1,9 @@
+April 18th 2023 - April 23rd 2023\
+Issues: I realize that the way we lay out the card might not be the most efficient for people to exchange their cards. The doesn't look professional enough so I decided to modify the way it looks. 
+
+Activity Report\
+
+
 April 10th 2023 - April 17th 2023\
 Create a QR code generator - QR code - ToDo\
 30 minutes\
