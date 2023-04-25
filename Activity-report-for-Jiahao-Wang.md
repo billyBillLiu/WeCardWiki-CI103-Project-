@@ -2,6 +2,17 @@ April 18th 2023 - April 23rd 2023\
 Issues: I realize that the way we lay out the card might not be the most efficient for people to exchange their cards. The doesn't look professional enough so I decided to modify the way it looks. 
 
 Activity Report\
+Re-Formatting the text boxes for editPage - Creating and Saving Cards - ToDo\
+45 minutes\
+I modify the text boxes on the editPage to where it will fit in the screen properly. I also made it to where when you type in the text box the word that was original on the text box will disappear on the screen. I also created spaces in between the text boxes to make it more visually appealing. Everything we put in to the text box will be able to properly display on the edit card and stay on it even if we scroll the pages. 
+April 19th, 2023 @ 10:45pm moved to review\
+April 24th, 2023 @ 10:25pm moved to done\
+Re-Formatting the placeholder cards - Creating and Saving Cards - ToDo\
+I modify the home page card so it looks more professional. Instead of going horizontally I made it a vertical card. I have the name on the very top, the profile picture in the middle and the other infos on the bottom. 
+April 19th, 2023 @ 11:50pm moved to review\
+April 24th, 2023 @ 10:30pm moved to done\
+Signed By\
+_Jiahao Wang\
 
 
 April 10th 2023 - April 17th 2023\
