@@ -2,6 +2,11 @@
 
 We only expect to collect surface level data such as name, contact information and profile pictures. Any additional information input into our system will be by the user's own volition. The data will be strictly used for consensual contact information exchange. 
 
+The additional information the user may provide and collected are as follows:
+- Location (Address information)
+- Birthday
+- Descriptions
+
 -----------------------------------------------------------
 
 Data Sharing
