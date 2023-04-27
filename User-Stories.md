@@ -7,7 +7,7 @@ Stub 4: Sharing Cards (Database)\
 - I can delete/revoke my card and information from other users' apps.
 - I can use a unique alphanumeric code to share my card, in case the QR code is inaccessible.
 
-Stub 7: Scanning QR Codes (QR Codes)\
+Stub 7: Scanning QR Codes (QR Codes)_NEW_\
 "As someone who wants to share my business card with others and access other people's business cards from my app, I want a way to conveniently share our contacts using our phone cameras."
 - I can generate QR codes for my personal contact card.
 - I can reset the QR code whenever I want to avoid spam and unwanted sharing.
@@ -32,7 +32,7 @@ Stub 5: Understanding The App (User Guide)\
 "As a consumer who wants to use the app, I want an introduction and tutorial on how to use the app, I want a user manual that lays out all the functions of the app."
 - I can access a txt file that has all the interactions and functions of the app listed out.
 
-Stub 7: Exporting the App (Finalization and Publishing)\
+Stub 8: Exporting the App (Finalization and Publishing)_NEW_\
 "As someone who wants to use the app, I want to be able to download it on my phone."
 - I can download the app from my phone's app store.
 - I can launch the app and have it run as seen in the user demos.
