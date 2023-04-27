@@ -3,8 +3,20 @@
 Stub 4: Sharing Cards (Database)\
 "As someone who changes numbers very frequently, I want a way to share my new numbers with others without having to message each and every one of my contacts." _(L) (COULD)_ 
 - I can change my information on the app and have it updated on my friend's phones as well. 
-- I can scan other another user's QR code and save their contact card on my app.
-- I can have my information and 
+- I can save contact information from other users after scanning their QR codes.
+- I can delete/revoke my card and information from other users' apps.
+- I can use a unique alphanumeric code to share my card, in case the QR code is inaccessible.
+
+Stub 7: Scanning QR Codes (QR Codes)\
+"As someone who wants to share my business card with others and access other people's business cards from my app, I want a way to conveniently share our contacts using our phone cameras."
+- I can generate QR codes for my personal contact card.
+- I can reset the QR code whenever I want to avoid spam and unwanted sharing.
+- I can download a picture of my QR code for printing and sharing purposes.
+
+Stub 6: Understanding the Code (System Guide)
+"As an IT person who wants to understand how the code works behind the scenes in the app, I want a document that I can use to walk myself through the code and understand what each line of code does."
+- I can access a tt file that explains what each class creates and how each function is used.
+- I can learn what why certain keywords and functions are used in all parts of the code.
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -16,14 +28,14 @@ Stub 2: Organization (Search Bar and Folders)\
 - I can navigate the folder system and locate a specific person with ease. 
 - I can search through my cards with names, numbers, emails, and keywords.
 
-Stub 5: Understanding The App (User Guide) *NEW*\
+Stub 5: Understanding The App (User Guide)\
 "As a consumer who wants to use the app, I want an introduction and tutorial on how to use the app, I want a user manual that lays out all the functions of the app."
 - I can access a txt file that has all the interactions and functions of the app listed out.
 
-Stub 6: Understanding the Code (System Guide) *NEW*\
-"As an IT person who wants to understand how the code works behind the scenes in the app, I want a document that I can use to walk myself through the code and understand what each line of code does."
-- I can access a tt file that explains what each class creates and how each function is used.
-- I can learn what why certain keywords and functions are used in all parts of the code.
+Stub 7: Exporting the App (Finalization and Publishing)\
+"As someone who wants to use the app, I want to be able to download it on my phone."
+- I can download the app from my phone's app store.
+- I can launch the app and have it run as seen in the user demos.
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -41,4 +53,3 @@ Stub 3: Creating and Saving Cards (Creating Classes and Objects)\
 - I can change the text on my cards. 
 - I can upload an image.
 - I can save information on the app.
-
