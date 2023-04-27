@@ -10,7 +10,7 @@ Push each other and make sure to finish weekly tasks on time. Check the Kanban b
 
 **Burndown Charts** 
 
-**Spring Week 4** (Sprint 4)
+**Spring Week 4** (Sprint 4)\
 [Insert Week 4 Chart Here]
 ---------------------------------------------------------------------------------------------------------
 
