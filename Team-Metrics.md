@@ -2,9 +2,9 @@
 
 Push each other and make sure to finish weekly tasks on time. Check the Kanban board regularly and hold each other accountable. Communicate more often to avoid issues with clashing code. Notify each other when starting and finishing tasks.
 
-**Week 1 Status/Updates:**
-**Week 2 Status/Updates:**
-**Week 3 Status/Updates:**
+**Week 1 Status/Updates:**\
+**Week 2 Status/Updates:**\
+**Week 3 Status/Updates:**\
 
 ---------------------------------------------------------------------------------------------------------
 
