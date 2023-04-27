@@ -1,3 +1,13 @@
+**This Sprint (SPRINT4)**
+
+Stub 4: Sharing Cards (Database)\
+"As someone who changes numbers very frequently, I want a way to share my new numbers with others without having to message each and every one of my contacts." _(L) (COULD)_ 
+- I can change my information on the app and have it updated on my friend's phones as well. 
+- I can scan other another user's QR code and save their contact card on my app.
+- I can have my information and 
+
+---------------------------------------------------------------------------------------------------------
+
 **Sprint Backlog**
 
 Stub 2: Organization (Search Bar and Folders)\
@@ -15,13 +25,7 @@ Stub 6: Understanding the Code (System Guide) *NEW*\
 - I can access a tt file that explains what each class creates and how each function is used.
 - I can learn what why certain keywords and functions are used in all parts of the code.
 
-**This Sprint (SPRINT4)**
-
-Stub 4: Sharing Cards (Database)\
-"As someone who changes numbers very frequently, I want a way to share my new numbers with others without having to message each and every one of my contacts." _(L) (COULD)_ 
-- I can change my information on the app and have it updated on my friend's phones as well. 
-- I can scan other another user's QR code and save their contact card on my app.
-- I can have my information and 
+---------------------------------------------------------------------------------------------------------
 
 **Done**
 
