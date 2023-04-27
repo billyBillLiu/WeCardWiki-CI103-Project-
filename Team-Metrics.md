@@ -4,7 +4,7 @@ Push each other and make sure to finish weekly tasks on time. Check the Kanban b
 
 **Week 1 Status/Updates:**\
 **Week 2 Status/Updates:**\
-**Week 3 Status/Updates:**\
+**Week 3 Status/Updates:**
 
 ---------------------------------------------------------------------------------------------------------
 
