@@ -4,11 +4,11 @@ Push each other and make sure to finish weekly tasks on time. Check the Kanban b
 
 **Sprint 4 Documentation of Team Satisfaction:**\
 **Week 1 Status/Updates:**
-(7/10) Progress has been decent. We still have to see what happens after we implement the database and QR code feature. Afterward, touchups can be made with organization and app customization. Definitely possible to achieve our goal in 5 more weeks, but need to put in the time and effort. \
+_(7/10)_ Progress has been decent. We still have to see what happens after we implement the database and QR code feature. Afterward, touchups can be made with organization and app customization. Definitely possible to achieve our goal in 5 more weeks, but need to put in the time and effort. \
 
-**Week 2 Status/Updates:** (__/10)
+**Week 2 Status/Updates:** _(__/10)_
 
-**Week 3 Status/Updates:** (__/10)
+**Week 3 Status/Updates:** _(__/10)_
 
 ---------------------------------------------------------------------------------------------------------
 
