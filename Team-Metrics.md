@@ -15,7 +15,7 @@ _(7/10)_ Progress has been decent. We still have to see what happens after we im
 **Burndown Charts** 
 
 **Spring Week 4** (Sprint 4)\
-[Insert Week 4 Chart Here]
+![Screenshot_2023-04-29_at_10.56.06_PM](uploads/4bd80a7a422bd60ed29738cf04c9e0ce/Screenshot_2023-04-29_at_10.56.06_PM.png)
 ---------------------------------------------------------------------------------------------------------
 
 **Spring Week 3** (Sprint 3)
