@@ -1,3 +1,18 @@
+**April 24 - April 30, 2023**
+
+Issues: NONE
+
+Activity Report:
+
+Creating and Saving Cards - Fix the text-overflow issue in the edit page - TO DO \
+37 min \
+I removed unnecessary rows and columns in BlankCard.dart. The unnecessary row was causing the container to follow the text off of the screen. I then wrapped the text for "Name" and "Email" in BlankCard.dart with sized boxes. This prevents the text from going to the next line and ruining the formatting. I tried using FittedBox to have the text shrink, but it would break the app when I tried. \
+_April 29, 2023, at: 11:23 PM moved to In Progress, 12:00 PM moved to Review._
+
+Signed By: \
+
+---------------------------------------------------------------------------------------------------------
+
 **April 17 - April 23, 2023**
 
 Issues: NONE
