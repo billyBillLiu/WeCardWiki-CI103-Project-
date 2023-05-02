@@ -1,14 +1,20 @@
-April 24th 2023 - April 30th 2023\
-Activity Report\
-QR code generator - Sharing Cards - ToDo\
-1 hour\
-I watch first went online to search for how QR code generators work. I found multiple QR code generators where they first ask for the kind of category you using it in. They will ask you for the necessary informations that's needed for this category. I learn how they generate QR codes. Then I move on to different videos on how people did their QR code generators. They all seem to be generators that generate based on what the user type in the text box. The QR code generator that I wanna make is one that generators based on the user's username. That will be something That I need to figure out. 
-April 26th, 2023 @ 3:20pm in progress\
-Place the generated QR code into the QR code page - Sharing Cards - ToDO\
-10 mins\
-In order to do this I have to first complete the QR code generator, but since I don't have it complete the only thing i could do for this task is look up ways to better format that QR code page to where it is more visually appealing to the user. 
-April 30th, 2023 @ 7:00pm in progress\
-Signed By\
+April 24th 2023 - April 30th 2023 \
+Activity Report \
+QR code generator - Sharing Cards - ToDo \
+1 hour \
+
+I watch first went online to search for how QR code generators work. I found multiple QR code generators where they first ask for the kind of category you using it in. They will ask you for the necessary informations that's needed for this category. I learn how they generate QR codes. Then I move on to different videos on how people did their QR code generators. They all seem to be generators that generate based on what the user type in the text box. The QR code generator that I wanna make is one that generators based on the user's username. That will be something That I need to figure out. \
+
+April 26th, 2023 @ 3:20pm in progress \
+
+Place the generated QR code into the QR code page - Sharing Cards - ToDO \
+10 mins \
+
+In order to do this I have to first complete the QR code generator, but since I don't have it complete the only thing i could do for this task is look up ways to better format that QR code page to where it is more visually appealing to the user. \
+
+April 30th, 2023 @ 7:00pm in progress \
+
+Signed By \
 _Jiahao Wang \
 
 April 18th 2023 - April 23rd 2023\
