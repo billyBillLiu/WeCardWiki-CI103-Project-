@@ -1,3 +1,22 @@
+April 24th - May 1st, 2023
+
+Issues: There are potentially still difficulties with git commit and push on my end. Please ignore the commits that have the message to not merge the files.
+
+Activity Report
+
+Creating and Saving Cards - Create Scrollable View for editPage - moved to Review \
+45 minutes \
+Modified the editPage file where instead of displaying each widgets as items in a column, each item is now framed inside of a ListView that allows the user to scroll up and down on the entire page. Test works for extending the page by filling up the spaces of editPage that overruns to the bottom. \
+May 1st, 2023 at 9:40PM moved to Review
+
+Creating and Saving Cards - Create method that prompts for a picture - moved to In Progress \
+30 minutes \
+Changed the placeholder image where it originally displayed a filled in box to an actual image, and created an assets folder with an image that will represent the new placeholder image for the blankCard. This change of code is a required step into being able to modify the placeholder image into a user-selected image. Further implementation requires modifying editPage and creating new setters and getters for blankCard class. \
+May 1st, 2023 at 10:00 PM moved to In Progress
+
+Signed By \
+Zhixian Li
+
 April 18th - April 23rd, 2023
 
 Issues: After analyzing the code, a potential reason for the data not being able to be saved could be caused by input validation, though there is no clear indication. After working on a branch that did not have the input validation I was able to save the data onto the editpage page. I have tried to push out a merge request without the input validation part of the code, but the current main branch does not accept automatically. Would require manual reviews to merge the code. 
