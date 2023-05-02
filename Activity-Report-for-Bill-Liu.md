@@ -9,9 +9,17 @@ Creating and Saving Cards - Fix the text-overflow issue in the edit page - TO DO
 I removed unnecessary rows and columns in BlankCard.dart. The unnecessary row was causing the container to follow the text off of the screen. I then wrapped the text for "Name" and "Email" in BlankCard.dart with sized boxes. This prevents the text from going to the next line and ruining the formatting. I tried using FittedBox to have the text shrink, but it would break the app when I tried. \
 _April 29, 2023, at: 11:23 PM moved to In Progress, 12:00 AM moved to Review._
 
+Creating and Saving Cards - Replace editing Textfields with direct tap to edit - To Do\
+50 min \
+I spent a good amount of time researching and trying different methods to replace the text fields with a tap-to-edit feature. I could not find the time to completely finish the task, but made progress. I made a new class in the elements folder called "EditCard.dart". This file contains a derived class that uses BlankCard as a base class. Will implement gesture detection and the rest of the features next week.
+_April 29, 2023, at: 12:02 AM moved to In Progress, 12:52 AM moved to To Do.
+
+
+Creating and Saving Cards - 
+
 Signed By: \
-_Jiahao Wang \
-Zhixian Li
+_Jiahao Wang\
+Bill Liu_ \
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -230,6 +238,8 @@ Activity Report
 Design – Create Placeholder Cards – ToDo \
 50 min \
 I created one placeholder card in the middle of the main page. This will be the general card template for all cards made by the program. The font style and information on the card are currently hardcoded. This will be changed later.
+
+
 
 Signed by \
 _Bill Liu \_
