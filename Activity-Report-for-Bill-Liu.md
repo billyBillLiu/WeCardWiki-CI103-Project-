@@ -10,6 +10,7 @@ I removed unnecessary rows and columns in BlankCard.dart. The unnecessary row wa
 _April 29, 2023, at: 11:23 PM moved to In Progress, 12:00 AM moved to Review._
 
 Signed By: \
+_Jiahao Wang \
 
 ---------------------------------------------------------------------------------------------------------
 
