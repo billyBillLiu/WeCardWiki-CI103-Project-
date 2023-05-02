@@ -17,6 +17,7 @@ April 30th, 2023 @ 7:00pm in progress \
 Signed By \
 _Jiahao Wang \
 Zhixian Li
+Bill Liu
 
 April 18th 2023 - April 23rd 2023\
 Issues: I realize that the way we lay out the card might not be the most efficient for people to exchange their cards. The doesn't look professional enough so I decided to modify the way it looks. 
