@@ -5,7 +5,7 @@ Push each other and make sure to finish weekly tasks on time. Check the Kanban b
 **Week 2 Status/Updates:** _(__/10)_
 
 **Week 2 Status/Updates:** _(__/10)_
-
+![Screenshot_2023-05-04_at_2.26.02_PM](uploads/90dbed960fbd1be06e96ce10540461d2/Screenshot_2023-05-04_at_2.26.02_PM.png)
 **Sprint 4 Documentation of Team Satisfaction:**\
 **Week 1 Status/Updates:**
 _(7/10)_ Progress has been decent. We still have to see what happens after we implement the database and QR code feature. Afterward, touchups can be made with organization and app customization. Definitely possible to achieve our goal in 5 more weeks, but need to put in the time and effort.
