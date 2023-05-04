@@ -5,7 +5,7 @@ Push each other and make sure to finish weekly tasks on time. Check the Kanban b
 **Sprint 4 Documentation of Team Satisfaction:**\
 **Week 1 Status/Updates:**
 _(7/10)_ Progress has been decent. We still have to see what happens after we implement the database and QR code feature. Afterward, touchups can be made with organization and app customization. Definitely possible to achieve our goal in 5 more weeks, but need to put in the time and effort.
-
+![Screenshot_2023-05-04_at_2.18.27_PM](uploads/704169d2e624e602de14a3fc5a977ed4/Screenshot_2023-05-04_at_2.18.27_PM.png)
 **Week 2 Status/Updates:** _(__/10)_
 
 **Week 3 Status/Updates:** _(__/10)_
@@ -13,7 +13,6 @@ _(7/10)_ Progress has been decent. We still have to see what happens after we im
 ---------------------------------------------------------------------------------------------------------
 
 **Burndown Charts** 
-
 **Spring Week 4** (Sprint 4)\
 ![Screenshot_2023-05-01_at_11.20.13_PM](uploads/cd4dcd53e11621a42a99c221e17158da/Screenshot_2023-05-01_at_11.20.13_PM.png)
 
@@ -40,4 +39,4 @@ _(7/10)_ Progress has been decent. We still have to see what happens after we im
 ![Screenshot_2023-02-23_at_1.56.00_PM](uploads/3b5ce99918726b438d4ee777b8486479/Screenshot_2023-02-23_at_1.56.00_PM.png)
 ---------------------------------------------------------------------------------------------------------
 
-Approved by: Vistrit Pandey (Scrum Master)![Screenshot_2023-05-01_at_11.20.13_PM](uploads/bcde1d0a7eb1fe59cbeaae5c6a2c69ed/Screenshot_2023-05-01_at_11.20.13_PM.png)
+Approved by: Vistrit Pandey (Scrum Master)![Screenshot_2023-05-01_at_11.20.13_PM](uploads/bcde1d0a7eb1fe59cbeaae5c6a2c69ed/Screenshot_2023-05-01_at_11.20.13_PM.png)![Screenshot_2023-05-04_at_2.18.27_PM](uploads/858bb808e06db56725434c9f12b81cc8/Screenshot_2023-05-04_at_2.18.27_PM.png)
