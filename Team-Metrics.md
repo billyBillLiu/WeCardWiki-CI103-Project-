@@ -47,4 +47,4 @@ _(7/10)_ Progress has been decent. We still have to see what happens after we im
 ![Screenshot_2023-02-23_at_1.56.00_PM](uploads/3b5ce99918726b438d4ee777b8486479/Screenshot_2023-02-23_at_1.56.00_PM.png)
 ---------------------------------------------------------------------------------------------------------
 
-Approved by: Vistrit Pandey (Scrum Master)
+Signed and Approved by: Vistrit Pandey (Scrum Master)
