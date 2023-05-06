@@ -1,3 +1,24 @@
+**April 30 - May 06, 2023**
+
+Issues: none
+
+Activity Report:
+
+Sharing Cards - Create tables and variables for database. - TO DO \
+70 min \
+I made three new classes in files named "CardInfo.dart", "UserInfo.dart", and "CardCollection.dart". CardInfo will be displayed on the card. UserInfo will be the user's unique id and login information. CardCollection will contain a list of other user's cards the user has collected. I also created a table variable for each for the SQL database. I also created a field class for each table containing all the variables from each class. \
+_May 5, 2023, at: 10:23 PM moved to In Progress, 11:33 PM moved to Review._
+
+Sharing Cards - Create new SQL database - TO DO \
+60 min \
+I ran some commands in terminal to install the dependencies for SQFLite in pubspec.yaml. Other members should only need to git pull to get these dependencies. I then created a new file called "Database.dart" I initialized the database and wrote the code required to initialize the UserInfo and CardInfo tables in SQL. I also wrote the CRUD operations for CardInfo. The CRUD operations for the other two should be straight forward as copying the one from CardInfo, but I just left "TODO" comments for now. All the table class and database files are located inside a new folder called "database". \
+_May 6, 2023, at: 1:20 PM moved to In Progress, 02:20 PM moved to Review._
+
+Signed By: \
+Bill Liu\
+
+---------------------------------------------------------------------------------------------------------
+
 **April 24 - April 30, 2023**
 
 Issues: NONE
