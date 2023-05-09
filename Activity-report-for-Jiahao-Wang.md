@@ -1,3 +1,21 @@
+April 30 - May 06, 2023 \
+Activity Report \
+QR code generator - Sharing Cards - ToDo \
+2 hour \
+
+I was able to build a QR code generator that generates QR codes based on what the user inputted. Even though it might not be what we ultimately wanted, but it is still a QR code generator. What I need to do afterwards is trying to figure out what I can do with this QR code generator so that it produces based on the user's username and other infos they user enters. 
+May 6th, 2023 @ 5:20pm in review \
+
+Place the generated QR code into the QR code page - Sharing Cards - ToDO \
+10 mins \
+
+I haven't really touch upon it yet so it is still in process. I though about ways to approach it but haven't really done much. I plan on having editing the page how other pages are where we the QR code will be in the middle with a title on top and maybe have a few words on the bottom. 
+May 6th, 2023 @ 5:55pm in progress \
+
+Signed by \
+_Jiahao Wang \
+
+
 April 24th 2023 - April 30th 2023 \
 Activity Report \
 QR code generator - Sharing Cards - ToDo \
