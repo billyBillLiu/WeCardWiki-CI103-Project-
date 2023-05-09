@@ -4,7 +4,7 @@ Push each other and make sure to finish weekly tasks on time. Check the Kanban b
 
 **Week 2 Status/Updates:** _(__/10)_
 
-**Week 2 Status/Updates:** _(__/10)_
+**Week 2 Status/Updates:** _(5/10)_ Progress has slowed. The database has been implemented, but SQL does not support list types as a data type by default. Figuring out a workaround using json string conversion functions will take extra time. Either way, SQFlite is a local database, so it can only simulate what our app is supposed to function like. Continuing on this route, our final product will only be a showcase of what the app could be. An alternative approach would be to focus on more front end features to round out what we lack in back end for now. The back end can be implemented later.
 ![Screenshot_2023-05-04_at_2.26.02_PM](uploads/90dbed960fbd1be06e96ce10540461d2/Screenshot_2023-05-04_at_2.26.02_PM.png)
 **Sprint 4 Documentation of Team Satisfaction:**\
 **Week 1 Status/Updates:**
