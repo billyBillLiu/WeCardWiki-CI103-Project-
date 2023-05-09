@@ -1,3 +1,27 @@
+April 30th - May 6th, 2023
+
+Issues: I have watched several tutorial videos on implementing a way to edit the cards directly on tapping on the area associated with the type of information, but none of them have helped me as much. I am currently having slight progress but may need Bill's or Jia's assistance. 
+
+Activity Report
+
+Creating and Saving Cards - Create getter and setter methods for images in card class - moved to In Progress \
+30 minutes \
+From the task "Create method that prompts for a picture," this is a task that derived from it. In the blankCard.dart, I added new attribute profileImage which stores a string of a link from the asset folder. I created a setter method that allows for changing the string of the attribute. \
+May 4th, 2023 at 1:30 PM moved to In Progress 
+
+Creating and Saving Cards - Editing card information directly on the card - moved to In Progress \
+90 minutes \
+I changed the first displayed text box in the blankCard.dart into a GestureDetector, which allows a form on input to be registered and perform a certain action. I currently have the action set to a print, which validates that the input is working properly. Might take the approach of using an AlertDialog for the moment being as that is what I can see being accomplished for the knowledge that I have. \
+May 4th, 2023 at 1:50 PM moved to In Progress
+
+Signed by \
+Zhixian Li
+
+
+
+
+----------------------------------------------------------
+
 April 24th - May 1st, 2023
 
 Issues: There are potentially still difficulties with git commit and push on my end. Please ignore the commits that have the message to not merge the files.
