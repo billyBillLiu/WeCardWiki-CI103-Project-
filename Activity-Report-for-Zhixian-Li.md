@@ -15,7 +15,8 @@ I changed the first displayed text box in the blankCard.dart into a GestureDetec
 May 4th, 2023 at 1:50 PM moved to In Progress
 
 Signed by \
-Zhixian Li
+Zhixian Li \
+Bill Liu \
 
 
 
