@@ -1,6 +1,8 @@
 **Sprint 4 Retrospective:**\
 No changes made to team charter. Team members should follow the charter more closely.
 
+![Web_capture_11-5-2023_144456_jamboard.google.com](uploads/eb389876dfc676760ce9b2c95ec1c6c2/Web_capture_11-5-2023_144456_jamboard.google.com.jpeg)
+
 **Team Goal Sprint 4:**
 
 Push each other and make sure to finish weekly tasks on time. Check the Kanban board regularly and hold each other accountable. Communicate more often to avoid issues with clashing code. Notify each other when starting and finishing tasks.
