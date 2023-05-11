@@ -2,16 +2,15 @@
 
 Stub 4: Sharing Cards (Database)\
 "As someone who changes numbers very frequently, I want a way to share my new numbers with others without having to message each and every one of my contacts." _(L) (COULD)_ 
-- I can change my information on the app and have it updated on my friend's phones as well. 
-- I can save contact information from other users after scanning their QR codes.
-- I can delete/revoke my card and information from other users' apps.
-- I can use a unique alphanumeric code to share my card, in case the QR code is inaccessible.
+- I can change my information on the app and have it update in the app's main database.
+- I can log in or create an account.
+- My account will have a unique id connected to it in the app's database.
 
-Stub 7: Scanning QR Codes (QR Codes)_NEW_\
-"As someone who wants to share my business card with others and access other people's business cards from my app, I want a way to conveniently share our contacts using our phone cameras."
-- I can generate QR codes for my personal contact card.
-- I can reset the QR code whenever I want to avoid spam and unwanted sharing.
-- I can download a picture of my QR code for printing and sharing purposes.
+Stub 3: Creating and Saving Cards (Creating Classes and Objects)\
+"As someone who wants to keep track of my information. I want to be able to create and edit cards that can be saved on my app." _(S) (SHOULD)_ 
+- I can add information to my cards. 
+- I can change the text on my cards. 
+- I can save information on the app.
 
 Stub 6: Understanding the Code (System Guide)
 "As an IT person who wants to understand how the code works behind the scenes in the app, I want a document that I can use to walk myself through the code and understand what each line of code does."
@@ -37,6 +36,13 @@ Stub 8: Exporting the App (Finalization and Publishing)_NEW_\
 - I can download the app from my phone's app store.
 - I can launch the app and have it run as seen in the user demos.
 
+Stub 7: Scanning QR Codes (QR Codes)_NEW_\
+"As someone who wants to share my business card with others and access other people's business cards from my app, I want a way to conveniently share our contacts using our phone cameras."
+- I can generate QR codes for my personal contact card.
+- I can reset the QR code whenever I want to avoid spam and unwanted sharing.
+- I can download a picture of my QR code for printing and sharing purposes.
+- I can save other user's cards using a qr code scanner.
+
 ---------------------------------------------------------------------------------------------------------
 
 **Done**
@@ -46,10 +52,3 @@ Stub 1: Design (UI and Layout)\
 - I can understand the UI and location of buttons/features easily.
 - I can easily understand the layout of the app.
 - I can navigate the app without any thought or confusion.
-
-Stub 3: Creating and Saving Cards (Creating Classes and Objects)\
-"As someone who wants to keep track of my information. I want to be able to create and edit cards that can be saved on my app." _(S) (SHOULD)_ 
-- I can add information to my cards. 
-- I can change the text on my cards. 
-- I can upload an image.
-- I can save information on the app.
