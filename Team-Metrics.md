@@ -2,7 +2,8 @@
 
 Push each other and make sure to finish weekly tasks on time. Check the Kanban board regularly and hold each other accountable. Communicate more often to avoid issues with clashing code. Notify each other when starting and finishing tasks.
 
-**Week 3 Status/Updates:** _(__/10)_
+**Week 3 Status/Updates:** _(6/10)_ Progress is still subpar, but the database has been implemented and implementation is underway. There are certain roadblocks that get in the way, but with some more research and Youtube tutorials, we should be on our way to finishing the app by the end of the last sprint. Things that still need to get done include: figuring out how to organize and read the inputted data efficiently, making a sorting system, and full implementation of the QR code feature.
+ 
 
 **Week 2 Status/Updates:** _(5/10)_ Progress has slowed. The database has been implemented, but SQL does not support list types as a data type by default. Figuring out a workaround using json string conversion functions will take extra time. Either way, SQFlite is a local database, so it can only simulate what our app is supposed to function like. Continuing on this route, our final product will only be a showcase of what the app could be. An alternative approach would be to focus on more front end features to round out what we lack in back end for now. The back end can be implemented later.
 ![Screenshot_2023-05-04_at_2.26.02_PM](uploads/90dbed960fbd1be06e96ce10540461d2/Screenshot_2023-05-04_at_2.26.02_PM.png)
