@@ -1,3 +1,6 @@
+**Sprint 4 Retrospective:**\
+No changes made to team charter. Team members should follow the charter more closely.
+
 **Team Goal Sprint 4:**
 
 Push each other and make sure to finish weekly tasks on time. Check the Kanban board regularly and hold each other accountable. Communicate more often to avoid issues with clashing code. Notify each other when starting and finishing tasks.
@@ -14,6 +17,10 @@ _(7/10)_ Progress has been decent. We still have to see what happens after we im
 ---------------------------------------------------------------------------------------------------------
 
 **Burndown Charts** 
+
+**Spring Week 6** (Sprint 4 Week 4)\
+[screenshot]
+---------------------------------------------------------------------------------------------------------
 
 **Spring Week 5** (Sprint 4 Week 3)\
 ![Screenshot_2023-05-11_at_2.39.02_PM](uploads/1429353c59f4f3f0507945fe0e2e153b/Screenshot_2023-05-11_at_2.39.02_PM.png)
