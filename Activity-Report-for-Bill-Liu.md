@@ -1,3 +1,29 @@
+**May 7 - May 13, 2023**
+
+Issues: NONE
+
+Activity Report:
+
+Sharing Cards - Initialize Firebase Database - TO DO \
+72 min \
+I initialized the firebase database. I created a project on firebase.google.com and initialized both the ios and android apps using the firebase CLI. Also installed all necessary dependencies using the CLI. These can be found in pubspec.yaml of carde2. (firebase_auth, firebase_core, and firestore). This is also the first task I did after soft resetting the project. I created a new flutter project called carde2 and put it into the repository. The project is mostly the same, but the files and code is a lot more organized.  \
+_May 8, 2023, at: 9:26 PM moved to In Progress, 10:38 PM moved to Review._
+
+Sharing Cards - Create login and register pages - TO DO \
+46 min \
+I created the login page and register pages. I created file for each named loginPage.dart and registerPage.dart. These are all located in the authentication folder. From the main dart file, it returns the login page. From the login page, the user can either switch to the register page or login and access the main page. \
+_May 9, 2023, at: 4:43 PM moved to In Progress, 05:29 PM moved to Review._
+
+Sharing Cards - Implement Login Functionality using Firebase Auth - TO DO \
+62 min \
+I used firebase auth to allow the user to create an account or login. I also added error messages for when the user inputs a wrong email or password. Once an account is created, it is stored in the database. The lines of code that allow the user to register or login using the databse are denoted by 'FirebaseAuth.instance.method()'. The main dart files leads to a main page which determines if the user is logged in. If the user is not logged in, the auth page is shown, which switches between the register and login page whenever the user presses the 'register' or 'login' text button.  \
+_May 9, 2023, at: 6:23 PM moved to In Progress, 07:25 PM moved to Review._
+
+Signed By: \
+Bill Liu \
+
+---------------------------------------------------------------------------------------------------------
+
 **April 30 - May 06, 2023**
 
 Issues: none
