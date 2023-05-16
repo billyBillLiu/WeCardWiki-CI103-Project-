@@ -67,6 +67,12 @@ Action items:
 - We will all be actively communicating about our tasks and what we are working on.
 - We will all be finishing our assigned tasks at Wednesday before the meeting day at 11:59PM.
 
+-----------------------------------------------------------------------------
+**Sprint 4 Retrospective:**  
+No changes made to team charter. Team members should follow the charter more closely.
+
+![Web_capture_11-5-2023_144456_jamboard.google.com](uploads/d763b4bc6d96146eb8ace05f841d865d/Web_capture_11-5-2023_144456_jamboard.google.com.jpeg)
+
 ---------------------------------------------------------------------------------------------------------
 
 **Planning CI103**
