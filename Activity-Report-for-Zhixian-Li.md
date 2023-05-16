@@ -1,3 +1,24 @@
+May 7th - May 13th, 2023
+
+Issues: There is nothing to report.
+
+Activity Report
+
+Creating and Saving Cards - Create getter and setter methods for images in card class - moved to Review \
+20 minutes \
+In blankCard.dart, I have changed up the type of variable from string to a file and renamed the variable to image. This is necessary in order to display an image from the user's gallery. The method should return a new image upon being called. \
+May 13th, 2023 at 11:30 PM moved to Review
+
+Creating and Saving Cards - Create method that prompts for a picture - moved to Review \
+30 minutes \
+I implemented a new function on the editPage.dart and added a new button that will call that function. The function will bring the user into their phone gallery, and prompt them to select a picture. Upon selecting the picture, the picture will be displayed on the blankCard object at the top. 
+May 13th, 2023 at 11:50 PM moved to Review
+
+Signed by \
+Zhixian Li
+
+
+
 April 30th - May 6th, 2023
 
 Issues: I have watched several tutorial videos on implementing a way to edit the cards directly on tapping on the area associated with the type of information, but none of them have helped me as much. I am currently having slight progress but may need Bill's or Jia's assistance. 
