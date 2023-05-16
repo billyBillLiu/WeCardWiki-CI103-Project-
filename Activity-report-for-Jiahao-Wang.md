@@ -3,7 +3,7 @@ Activity Report \
 Change the color of the QR code to match the home page - Sharing Cards - ToDo \
 30 mins \
 
-After creating the QR code generator I realize that the color doesn't fit with the other screens that we have made. So I look through my codes and try to re-formate it to make it look more appealing to the users. I was able to done that and now it look a lot better than before. 
+After creating the QR code generator I realize that the color doesn't fit with the other screens that we have made. So I look through my codes and try to re-format it to make it look more appealing to the users. I was able to done that and now it look a lot better than before. 
 May 12th, 2023 @ 12:20pm in review \
 
 Have the QR code be permanent and saved - Sharing Cards - ToDo \
@@ -14,7 +14,7 @@ May 12, 2023 @ 2:18pm in progress \
 
 signed by \
 _Jiahao Wang \
-
+Zhixian Li_
 
 April 30 - May 06, 2023 \
 Activity Report \
