@@ -7,7 +7,7 @@ No changes made to team charter. Team members should follow the charter more clo
 **Team Goal Sprint 4:**
 
 Push each other and make sure to finish weekly tasks on time. Check the Kanban board regularly and hold each other accountable. Communicate more often to avoid issues with clashing code. Notify each other when starting and finishing tasks.
-```
+
 
 
 **Week 3 Status/Updates:** _(6/10)_ Progress is still subpar, but the database has been implemented and implementation is underway. There are certain roadblocks that get in the way, but with some more research and Youtube tutorials, we should be on our way to finishing the app by the end of the last sprint. Things that still need to get done include: figuring out how to organize and read the inputted data efficiently, making a sorting system, and full implementation of the QR code feature.
