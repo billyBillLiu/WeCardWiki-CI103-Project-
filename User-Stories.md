@@ -16,7 +16,7 @@ Stub 6: Understanding the Code (System Guide)
 - I can learn what why certain keywords and functions are used in all parts of the code.
 
 
-- Stub 7: Scanning QR Codes (QR Codes)_NEW_\
+- Stub 7: Scanning QR Codes (QR Codes)
 "As someone who wants to share my business card with others and access other people's business cards from my app, I want a way to conveniently share our contacts using our phone cameras."
 - I can generate QR codes for my personal contact card.
 - I can reset the QR code whenever I want to avoid spam and unwanted sharing.
