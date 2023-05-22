@@ -1,3 +1,24 @@
+**May 14 - May 20, 2023**
+
+Issues: None
+
+Activity Report:
+
+Sharing Cards - Display Saved Information on Edit Page - TO DO \
+56 min \
+I replaced the .add() method with a .set() method in the SaveInfo method in PageC.dart. I also made it so when a user is created on the register page, a new document is created in Firestore. The name for that document is used to name the document. I also created an array field for each user document that holds all the user's collected card ids. \
+_May 19th, 2023, at: 12:01 AM moved to In Progress, 12:57 AM moved to Review._
+
+Sharing Cards - Display Saved Info on Main Page - TO DO \
+41 min \
+I used a FutureBuilder to create a widget that uses data from the database on PageB.dart. The Futurebuilder awaits the getData method written at the top of the file. For each user id in the cardCollection array field, a MyCard widget is created with each field filled in with its corresponding string. I also added a logout button on the left screen for debugging. I also added the button that appends other user's ids to the current logged in user's cardCollection array. \
+_May 19th, 2023, at: 12:57 AM moved to In Progress, 01:38 AM moved to Review._
+
+Signed By: \
+Bill Liu\
+
+---------------------------------------------------------------------------------------------------------
+
 **May 7 - May 13, 2023**
 
 Issues: NONE
