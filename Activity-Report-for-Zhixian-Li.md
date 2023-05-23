@@ -10,7 +10,8 @@ In the blankCard.dart, I added a new Color variable cardColor which will be asso
 May 18th, 2023 at 1:40PM moved to In Progress
 
 _Signed by \
-Zhixian Li_
+Zhixian Li \
+Jiahao Wang \
 
 --------------------------------------------------------------
 
