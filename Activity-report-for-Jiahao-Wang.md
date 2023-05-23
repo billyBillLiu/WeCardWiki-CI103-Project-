@@ -1,3 +1,20 @@
+May 14 - May 20, 2023 \
+Activity Report \
+Import Google Font - Design - ToDo \
+30 mins \
+
+I look for many ways to change the font of our app and I was able to change the font on it and I'm looking for ways that the user can change the font that they trying to use. instead of have a permanent font we made it so the user can change their font. 
+May 20th, 2023 @ 10:33pm in progress \
+
+Create a user guide - User guide - ToDo \
+30 mins \ 
+
+I did a user guide for our app so the user know how to use our app. I wrote down some basic instructions on how the user can download our app and how the user can get through the login page. I also added in a contact info a way to connect us if there's any questions for our app. 
+May 19th, 2023 @ 2: 30pm in progress \
+
+signed by \
+_Jiahao Wang \
+
 May 07 - May 13, 2023 \
 Activity Report \
 Change the color of the QR code to match the home page - Sharing Cards - ToDo \
