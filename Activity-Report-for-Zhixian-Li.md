@@ -1,3 +1,19 @@
+May 14th - May 20th, 2023
+
+Issues: As Bill created a new folder for soft rework, I need to integrate my work into the rework. 
+
+Activity Report
+
+Change card color (Creating Cards) - moved to In Progress \
+15 minutes \
+In the blankCard.dart, I added a new Color variable cardColor which will be associated with the color of the card, and I have added a new placeholder button for where the change color button will go. I have also added the colorpicker package to the pubspec.yaml which will be used for selecting a color to change. \
+May 18th, 2023 at 1:40PM moved to In Progress
+
+Signed by \
+Zhixian Li
+
+--------------------------------------------------------------
+
 May 7th - May 13th, 2023
 
 Issues: There is nothing to report.
