@@ -9,8 +9,8 @@ Change card color (Creating Cards) - moved to In Progress \
 In the blankCard.dart, I added a new Color variable cardColor which will be associated with the color of the card, and I have added a new placeholder button for where the change color button will go. I have also added the colorpicker package to the pubspec.yaml which will be used for selecting a color to change. \
 May 18th, 2023 at 1:40PM moved to In Progress
 
-Signed by \
-Zhixian Li
+_Signed by \
+Zhixian Li_
 
 --------------------------------------------------------------
 
