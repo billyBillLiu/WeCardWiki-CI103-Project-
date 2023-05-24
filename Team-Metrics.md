@@ -1,3 +1,13 @@
+**Team Goal Sprint 5**
+Push each other even more to finish weekly tasks. Spend time more wisely. Rethink the prioritizing of tasks and features.
+
+---------------------------------------------------------------------------------------------------------
+**Burndown Charts** 
+
+**Spring Week 7* (Sprint 5 Week 1)
+![Screenshot_2023-05-01_at_11.20.13_PM](uploads/cd4dcd53e11621a42a99c221e17158da/Screenshot_2023-05-01_at_11.20.13_PM.png)
+
+---------------------------------------------------------------------------------------------------------
 
 **Sprint 4 Retrospective:**
 No changes made to team charter. Team members should follow the charter more closely.
@@ -19,6 +29,7 @@ Push each other and make sure to finish weekly tasks on time. Check the Kanban b
 **Week 1 Status/Updates:**
 _(7/10)_ Progress has been decent. We still have to see what happens after we implement the database and QR code feature. Afterward, touchups can be made with organization and app customization. Definitely possible to achieve our goal in 5 more weeks, but need to put in the time and effort.
 ![Screenshot_2023-05-04_at_2.18.27_PM](uploads/704169d2e624e602de14a3fc5a977ed4/Screenshot_2023-05-04_at_2.18.27_PM.png)
+
 ---------------------------------------------------------------------------------------------------------
 
 **Burndown Charts** 
