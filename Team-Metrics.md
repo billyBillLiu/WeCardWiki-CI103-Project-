@@ -1,4 +1,5 @@
-**Team Goal Sprint 5**
+**Team Goal Sprint 5:**
+
 Push each other even more to finish weekly tasks. Spend time more wisely. Rethink the prioritizing of tasks and features.
 
 ---------------------------------------------------------------------------------------------------------
