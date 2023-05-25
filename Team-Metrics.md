@@ -4,7 +4,10 @@ Push each other even more to finish weekly tasks. Spend time more wisely. Rethin
 
 ---------------------------------------------------------------------------------------------------------
 **Burndown Charts** 
+**Spring Week 7** (Sprint 5 Week 2)
+![Screenshot_2023-05-25_at_1.33.13_PM](uploads/02b1eeff43cc65899c0ca51709fac738/Screenshot_2023-05-25_at_1.33.13_PM.png)
 
+---------------------------------------------------------------------------------------------------------
 **Spring Week 7** (Sprint 5 Week 1)
 ![Screenshot_2023-02-23_at_1.56.00_PM](uploads/3b5ce99918726b438d4ee777b8486479/Screenshot_2023-02-23_at_1.56.00_PM.png)
 
