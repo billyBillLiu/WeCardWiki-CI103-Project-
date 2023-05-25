@@ -2,6 +2,11 @@
 
 Push each other even more to finish weekly tasks. Spend time more wisely. Rethink the prioritizing of tasks and features.
 
+**Week 2 sprint 5 Status/Updates:** _(6/10)_
+![Screenshot_2023-05-25_at_2.21.50_PM](uploads/76c2ad5561c25fb4c38f24c9aea0d2e6/Screenshot_2023-05-25_at_2.21.50_PM.png)
+
+**Week 1 sprint 5 Status/Updates:** _(6/10)_ 
+![Screenshot_2023-05-25_at_2.26.38_PM](uploads/9153fd6c7d9e7683406af134aeb38430/Screenshot_2023-05-25_at_2.26.38_PM.png)
 ---------------------------------------------------------------------------------------------------------
 **Burndown Charts** 
 **Spring Week 7** (Sprint 5 Week 2)
