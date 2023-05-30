@@ -1,3 +1,19 @@
+May 21 - May 27th, 2023
+
+Issues: The previous commit was on a thread based on the previous-previous commit. Please check the old commit thread starting from "added better placeholder image" in the graphs section for the color variable implementation.
+
+Activity Report
+
+Generate QR Code based on User ID (Sharing Cards) - Moved to Review \
+50 minutes \
+Using the code segment from Jiahao's QR code generator, I was able to implementing a unique QR code associated by the User ID extracted from the firebase and display on pageA.dart. Test works for different account with different user ID. \
+May 25th, 2023 at 1:20PM moved to In Progress, at 2:30PM moved to Review
+
+Signed by \
+Zhixian Li
+
+-----------------------------------
+
 May 14th - May 20th, 2023
 
 Issues: As Bill created a new folder for soft rework, I need to integrate my work into the rework. 
