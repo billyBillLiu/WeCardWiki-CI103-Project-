@@ -1,3 +1,16 @@
+May 21 - May 27, 2023 \
+Activity Report \
+Change Card Color - Creating Cards - ToDo \
+2 hours
+
+I made a list for the general colors that people would usually use for their cards. Then I made two Functions one for the color icons and one for as the buttons. The icons orders the color left to right and then the button makes them clickable to be used. The next step would be to import this into our database so it link up with the card that we have stored. 
+May 27th, 2023 @ 12:00pm in progress
+
+Signed by \
+Jiahao Wang \
+Zhixian Li\
+Bill Liu_
+
 May 14 - May 20, 2023 \
 Activity Report \
 Import Google Font - Design - ToDo \
