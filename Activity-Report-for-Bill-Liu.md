@@ -14,7 +14,7 @@ Sharing Cards - Deleting Card Feature - TO DO \
 In pageB.dart, I created a new method card removeCard. I played around with the onGesture method to see how I could remove the card from the database, but I have not fully implemented it yet. Removing the card from the list is easy, but I still need to figure out how to removed the data from the Firebase backend.
 _May 19th, 2023, at: 11:19 AM moved to In Progress, 11:59 PM moved to In Progress._
 
-Signed By: \
+_Signed By: \
 Bill Liu\
 Zhixian Li\
 Jiahao Wang_
