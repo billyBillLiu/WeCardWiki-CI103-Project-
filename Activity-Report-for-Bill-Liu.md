@@ -1,3 +1,26 @@
+**May 21 - May 27, 2023**
+
+Issues: None
+
+Activity Report:
+
+System Guide - Create a System Guide - TO DO \
+29 min \
+I created a system guide in a new Txt file called SystemGuide.txt. It includes the minimum hardware requirements to run and test the app. It also includes instructions on how to install Dart, Flutter, Firebase, and all the dependencies and packages we used. It also includes a list of common errors and what they mean. Each of our emails are also listed at the bottom for anyone to contact us. \
+_May 19th, 2023, at: 10:49 PM moved to In Progress, 11:18 PM moved to Review._
+
+Sharing Cards - Deleting Card Feature - TO DO \
+40 min \
+In pageB.dart, I created a new method card removeCard. I played around with the onGesture method to see how I could remove the card from the database, but I have not fully implemented it yet. Removing the card from the list is easy, but I still need to figure out how to removed the data from the Firebase backend.
+_May 19th, 2023, at: 11:19 AM moved to In Progress, 11:59 PM moved to In Progress._
+
+Signed By: \
+Bill Liu\
+Zhixian Li\
+Jiahao Wang_
+
+---------------------------------------------------------------------------------------------------------
+
 **May 14 - May 20, 2023**
 
 Issues: None
