@@ -1,6 +1,8 @@
 **Team Goal Sprint 5:**
 
 Push each other even more to finish weekly tasks. Spend time more wisely. Rethink the prioritizing of tasks and features.
+**Week 3 sprint 5 Status/Updates:** _(8/10)_
+![Screenshot_2023-06-01_at_2.21.12_PM](uploads/52e6fc6323057b206d0fb6632dd79002/Screenshot_2023-06-01_at_2.21.12_PM.png)
 
 **Week 2 sprint 5 Status/Updates:** _(6/10)_
 ![Screenshot_2023-05-25_at_2.21.50_PM](uploads/76c2ad5561c25fb4c38f24c9aea0d2e6/Screenshot_2023-05-25_at_2.21.50_PM.png)
@@ -9,6 +11,9 @@ Push each other even more to finish weekly tasks. Spend time more wisely. Rethin
 ![Screenshot_2023-05-25_at_2.26.38_PM](uploads/9153fd6c7d9e7683406af134aeb38430/Screenshot_2023-05-25_at_2.26.38_PM.png)
 ---------------------------------------------------------------------------------------------------------
 **Burndown Charts** 
+**Spring Week 7** (Sprint 5 Week 2)
+![Screenshot_2023-06-01_at_2.20.44_PM](uploads/3fc1c4d6dc263f937ac4e6a1df9041aa/Screenshot_2023-06-01_at_2.20.44_PM.png)
+---------------------------------------------------------------------------------------------------------
 **Spring Week 7** (Sprint 5 Week 2)
 ![Screenshot_2023-05-25_at_1.33.13_PM](uploads/02b1eeff43cc65899c0ca51709fac738/Screenshot_2023-05-25_at_1.33.13_PM.png)
 
