@@ -1,6 +1,12 @@
 **Team Goal Sprint 5:**
 
 Push each other even more to finish weekly tasks. Spend time more wisely. Rethink the prioritizing of tasks and features.
+
+
+**Sprint 5 Retrospective** \
+No changes made to team charter. Team members should continue to follow and adhere to the charter more closely. 
+![sprint5_retrospective](uploads/1e340e77626a0793b93b71682fbbbd14/sprint5_retrospective.png)
+
 **Week 3 sprint 5 Status/Updates:** _(8/10)_
 ![Screenshot_2023-06-01_at_2.21.12_PM](uploads/52e6fc6323057b206d0fb6632dd79002/Screenshot_2023-06-01_at_2.21.12_PM.png)
 
